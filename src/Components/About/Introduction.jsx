@@ -34,7 +34,7 @@ export const Introduction = () => {
                 <span className="different">CODING NINJAS</span> as a MERN Stack
                 Developer.
               </h4>
-              <h4>Terms That can describe me apart form Coding :</h4>
+              <h4>Terms That can describe me apart from Coding :</h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
